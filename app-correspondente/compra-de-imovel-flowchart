@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T13:43:03.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0chGp3LMZDFFRt-vdF2Y" version="16.1.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-01T00:05:30.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="jI6JfYszhW7oR89JgWto" version="16.5.2" type="github" pages="4">
   <diagram id="khcAUZ9lvgRXkLwW6B90" name="Fluxo do processo">
-    <mxGraphModel dx="3671" dy="2715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2292" dy="2118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1161,7 +1161,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Xmr3ROaubOPYl98cWPh" name="Protótipo">
-    <mxGraphModel dx="1778" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="981" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JJ9GSZdeYtZH71D_OHOM-0" />
         <mxCell id="JJ9GSZdeYtZH71D_OHOM-1" parent="JJ9GSZdeYtZH71D_OHOM-0" />
@@ -1524,6 +1524,42 @@
         </mxCell>
         <mxCell id="JJ9GSZdeYtZH71D_OHOM-144" value="" style="shape=cross;whiteSpace=wrap;html=1;size=0;" parent="JJ9GSZdeYtZH71D_OHOM-1" vertex="1">
           <mxGeometry x="1070" y="1150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-0" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-680" y="820" width="1200" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-600" y="925" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-390" y="925" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-180" y="925" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="30" y="925" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="240" y="925" width="210" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-32" value="Pendentes de confirmação de e-mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-560" y="935" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-33" value="Documentação pendente" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-350" y="935" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-34" value="Pronto para envio" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-140" y="935" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-35" value="Processo com o banco" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="70" y="945" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-36" value="Processo finalizado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="280" y="945" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="s8-oySpzX2FNCSOOAhj3-37" value="Acompanhamento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JJ9GSZdeYtZH71D_OHOM-1">
+          <mxGeometry x="-580" y="860" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
